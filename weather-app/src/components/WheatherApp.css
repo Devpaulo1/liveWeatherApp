@@ -190,7 +190,7 @@
   padding: 0 2rem;
 }
 
-.weather-data > div {
+.weather-data>div {
   flex: 1;
 
   display: flex;
